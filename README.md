@@ -201,3 +201,6 @@
     - MVP
     - MVVM
     - VIPER
+
+
+[//]: # (Inspired by the work of Brook Riggio and John Bender in the article:"Everything a Competent iOS Developer Needs to Know [Graphic]" - December 22, 2013.  https://www.codefellows.org/blog/everything-a-competent-ios-developer-needs-to-know)
