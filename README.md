@@ -3,9 +3,12 @@
 
 - **Swift and Objective-C language**
   - Object-oriented programming
-    - Classes and inheritance
-    - Variable and method scope
-    - MVC concepts
+    - Classes
+    - Inheritance
+    - Properties and method scope
+    - Encapsulation
+    - Interfaces
+    - Polymorphism
     - Categories
   - Syntax
     - Messaging
@@ -19,6 +22,13 @@
     - Blocks
     - Target/action
     - Protocols
+
+  - Swift with Cocoa and Objective-C
+    - Interoperability
+    - Mix and Match
+    - Migration
+
+- **Core iOS libraries**
   - UIKit
     - View hierarchy
     - Drawing events
@@ -28,12 +38,6 @@
     - Configuration
     - AVFoundation
     - C APIs
-  - Swift with Cocoa and Objective-C
-    - Interoperability
-    - Mix and Match
-    - Migration
-
-- **Core iOS libraries**
   - Camera
   - Microphone
   - Sharing and social networking
