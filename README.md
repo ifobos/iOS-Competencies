@@ -3,25 +3,27 @@
 
 - **Swift and Objective-C language**
   - Object-oriented programming
-    - Classes
+    - Classes and objects
+    - Properties or attributes
+    - Methods
+    - Messages
     - Inheritance
-    - Properties and method scope
     - Encapsulation
-    - Interfaces
     - Polymorphism
-    - Categories
   - Syntax
     - Messaging
     - Class definition and properties
     - Integration with C/C++
   - Memory management
-    - Strong/weak pointers
     - Automatic Reference Counting
-    - Autoreleased objects
+      - Strong/weak pointers
+    - Manual Reference Counting
+      - Autoreleased objects
   - Code design patterns
     - Blocks
     - Target/action
     - Protocols
+    - Categories
   - Swift with Cocoa and Objective-C
     - Interoperability
     - Mix and Match
