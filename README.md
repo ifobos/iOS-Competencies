@@ -22,7 +22,6 @@
     - Blocks
     - Target/action
     - Protocols
-
   - Swift with Cocoa and Objective-C
     - Interoperability
     - Mix and Match
