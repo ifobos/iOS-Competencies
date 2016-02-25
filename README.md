@@ -59,7 +59,7 @@
   - SpriteKit
   - Touch ID
   - 3D Touch
-  - Core Animation
+  - CoreAnimation
 
 - **CocoaPods**
   - Project structure and dependencies
