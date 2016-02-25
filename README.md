@@ -43,6 +43,7 @@
   - Microphone
   - Sharing and social networking
   - CoreData
+  - CoreSpotlight
   - Foundation
     - Application loop
     - Threads
