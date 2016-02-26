@@ -2,17 +2,12 @@
 
 
 - **Swift and Objective-C language**
-  - Object-oriented programming
-    - Classes and objects
-    - Properties or attributes
-    - Methods
-    - Inheritance
-    - Encapsulation
-    - Polymorphism
-  - Syntax
-    - Messaging
-    - Class definition and properties
-    - Integration with C/C++
+  - [Programming language](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#programming-language)
+  - [Object-oriented programming](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#object-oriented-programming)
+  - [Lazy Instantiation](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#lazy-instantiation)
+  - [Selectors](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#selectors)
+  - [Abstract Class](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#abstract-class)
+  - [Integration with C/C++](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#integration-with-cc)
   - Memory management
     - Automatic Reference Counting
       - Strong/weak pointers
