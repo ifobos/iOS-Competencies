@@ -6,7 +6,6 @@
     - Classes and objects
     - Properties or attributes
     - Methods
-    - Messages
     - Inheritance
     - Encapsulation
     - Polymorphism
