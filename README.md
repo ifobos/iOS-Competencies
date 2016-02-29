@@ -61,6 +61,11 @@
   - Installation
   - Searching
   - Pod creation
+  - Some popular pods
+    - AFNetworking
+    - ReactiveCocoa
+    - PromiseKit
+    - MagicalRecord
   
 - **Tests**
   - Types
