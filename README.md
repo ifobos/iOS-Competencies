@@ -2,20 +2,20 @@
 
 
 - **Swift and Objective-C language**
-  - [Programming language](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#programming-language)
-  - [Object-oriented programming](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#object-oriented-programming)
-  - [Lazy Instantiation](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#lazy-instantiation)
-  - [Selectors](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#selectors)
-  - [Abstract Class](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#abstract-class)
-  - [Integration with C/C++](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#integration-with-cc)
-  - [Memory management](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#memory-management)
-    - [Automatic Reference Counting And Manual Retain Release](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#automatic-reference-counting-and-manual-retain-release)
-  - [Code design patterns](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#code-design-patterns)
-    - [Blocks](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#blocks)
-    - [Target/action](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#targetaction)
-    - [Protocols](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#protocols)
-    - [Categories | Extensions](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#categories--extensions)
-  - [Swift with Cocoa and Objective-C](https://github.com/ifobos/iOS-Competencies/wiki/Swift-and-Objective-C-language#swift-with-cocoa-and-objective-c)
+  - [Programming language](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#programming-language)
+  - [Object-oriented programming](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#object-oriented-programming)
+  - [Lazy Instantiation](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#lazy-instantiation)
+  - [Selectors](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#selectors)
+  - [Abstract Class](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#abstract-class)
+  - [Integration with C/C++](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#integration-with-cc)
+  - [Memory management](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#memory-management)
+    - [Automatic Reference Counting And Manual Retain Release](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#automatic-reference-counting-and-manual-retain-release)
+  - [Code design patterns](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#code-design-patterns)
+    - [Blocks](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#blocks)
+    - [Target/action](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#targetaction)
+    - [Protocols](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#protocols)
+    - [Categories | Extensions](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#categories--extensions)
+  - [Swift with Cocoa and Objective-C](https://github.com/ifobos/iOS-Competencies/wiki/1.-Swift-and-Objective-C-language#swift-with-cocoa-and-objective-c)
 
 - **Core iOS libraries**
   - UIKit
