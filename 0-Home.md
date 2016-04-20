@@ -2,7 +2,7 @@
 
 - **Swift and Objective-C language**
 - **About iOS**
-- **CocoaPods**
+- **Third party tools**
 - **Tests**
 - **Xcode**
 - **Deployment**
