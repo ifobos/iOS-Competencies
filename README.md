@@ -17,38 +17,11 @@
     - [Categories | Extensions](/1-Swift-and-Objective-C-language.md#categories--extensions)
   - [Swift with Cocoa and Objective-C](/1-Swift-and-Objective-C-language.md#swift-with-cocoa-and-objective-c)
 
-- **Core iOS libraries**
-  - UIKit
-    - View hierarchy
-    - Drawing events
-    - Touch events
-    - Animation
-  - Multimedia
-    - Configuration
-    - AVFoundation
-    - C APIs
-  - Camera
-  - Microphone
-  - Sharing and social networking
-  - CoreData
-  - CoreSpotlight
-  - Foundation
-    - Application loop
-    - Threads
-    - Networking
-  - MapKit
-  - Passbook
-  - CoreLocation
-  - Bluetooth
-  - Notifications
-    - Local notifications
-    - Push notifications (APNS)
-  - CoreMotion
-  - GameKit
-  - SpriteKit
-  - Touch ID
-  - 3D Touch
-  - CoreAnimation
+- **About-iOS**
+  - [What's New in iOS](https://developer.apple.com/library/ios/releasenotes/General/WhatsNewIniOS/Articles/iOS9.html)
+  - [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+  - [iOS Technology Overview](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+  - [iOS Frameworks](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/iPhoneOSFrameworks/iPhoneOSFrameworks.html#//apple_ref/doc/uid/TP40007898-CH6-SW3)
 
 - **CocoaPods**
   - Project structure and dependencies
