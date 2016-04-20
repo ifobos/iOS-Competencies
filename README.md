@@ -23,16 +23,10 @@
   - [iOS Technology Overview](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
   - [iOS Frameworks](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/iPhoneOSFrameworks/iPhoneOSFrameworks.html#//apple_ref/doc/uid/TP40007898-CH6-SW3)
 
-- **CocoaPods**
-  - Project structure and dependencies
-  - Installation
-  - Searching
-  - Pod creation
-  - Some popular pods
-    - AFNetworking
-    - ReactiveCocoa
-    - PromiseKit
-    - MagicalRecord
+- **Third party tools**
+  - [Awesome iOS](https://github.com/vsouza/awesome-ios)
+  - [Cocoa Controls](https://www.cocoacontrols.com/)
+  - [Cocoa Pods](https://cocoapods.org/)
   
 - **Tests**
   - Types
