@@ -1,7 +1,7 @@
 # iOS-Competencies
 
 - **Swift and Objective-C language**
-- **Core iOS libraries**
+- **About iOS**
 - **CocoaPods**
 - **Tests**
 - **Xcode**
