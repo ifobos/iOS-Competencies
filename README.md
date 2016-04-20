@@ -111,6 +111,7 @@
     - Licensing
 
 - **Design Patterns and Best Practices**
+  - [Developers Best Practices](http://www.tutorialspoint.com/developers_best_practices/index.htm)
   - Style Guide
     - Objective C Style Guide
     - Swift Style Guide
