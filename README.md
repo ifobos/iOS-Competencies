@@ -29,15 +29,8 @@
   - [Cocoa Pods](https://cocoapods.org/)
   
 - **Tests**
-  - Types
-    - Unit
-    - Functional
-    - Integration
-    - Performance
-    - Acceptance
-    - Regression
-  - Continuous Integration
-  - XCTest
+  - [Software Testing](http://www.tutorialspoint.com/software_testing/index.htm)
+  - [Testing with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode)
 
 - **Xcode**
   - Projects
