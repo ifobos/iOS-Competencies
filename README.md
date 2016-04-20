@@ -33,28 +33,7 @@
   - [Testing with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode)
 
 - **Xcode**
-  - Projects
-    - File structure
-    - Navigation
-    - Build settings
-    - Property lists
-  - Code editor
-    - Syntax highlighting
-    - Search
-    - Autocomplete
-    - Documentation
-    - Assistant Editor
-  - Interface Builder
-    - Storyboards
-    - Controls
-    - IBOutlet and IBAction
-    - Custom classes
-    - Tags
-    - File structure
-  - Debugging tools
-    - lldb
-    - Breakpoints
-    - Logging
+  - [Xcode Overview](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/)
   - [Instrumentation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html)
 
 - **Deployment**
