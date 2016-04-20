@@ -62,12 +62,7 @@
     - lldb
     - Breakpoints
     - Logging
-  - Instrumentation
-    - Memory
-    - CPU
-  - Git
-    - Repository management
-    - Branching and merging
+  - [Instrumentation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html)
 
 - **Deployment**
   - Device testing
