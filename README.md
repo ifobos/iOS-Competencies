@@ -130,11 +130,7 @@
     - Polymorphism
     - Protected variations
     - Pure fabrication
-  - Architectural Pattern
-    - MVC
-    - MVP
-    - MVVM
-    - VIPER
+  - [iOS Architecture Patterns MVC, MVP, MVVM and VIPER] (https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.imo7pzxt3)
 
 
 [//]: # (Inspired by the work of Brook Riggio and John Bender in the article:"Everything a Competent iOS Developer Needs to Know [Graphic]" - December 22, 2013.  https://www.codefellows.org/blog/everything-a-competent-ios-developer-needs-to-know)
