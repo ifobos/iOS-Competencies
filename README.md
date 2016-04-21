@@ -85,8 +85,8 @@
 - **Design Patterns and Best Practices**
   - [Developers Best Practices](http://www.tutorialspoint.com/developers_best_practices/index.htm)
   - Style Guide
-    - Objective C Style Guide
-    - Swift Style Guide
+    - [Objective C Style Guide](https://github.com/ifobos/objective-c-style-guide)
+    - [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
   - SOLID
     - Single responsibility principle
     - Open/closed principle
