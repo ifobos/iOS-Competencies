@@ -76,11 +76,11 @@
     - [Objective C Style Guide](https://github.com/ifobos/objective-c-style-guide)
     - [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
   - [SOLID](http://www.codemag.com/article/1001061)
-    - Single responsibility principle
-    - Open/closed principle
-    - Liskov substitution principle
-    - Interface segregation principle
-    - Dependency inversion principle
+    - [Single responsibility principle](https://youtu.be/nyxaChZ1row)
+    - [Open/closed principle](https://youtu.be/EpvfSQEJq68)
+    - [Liskov substitution principle](https://youtu.be/LkqWvVXNDKw)
+    - [Interface segregation principle](https://youtu.be/dmKvJyihsAQ)
+    - [Dependency inversion principle](https://youtu.be/d4uBBvnreXw)
   - GoF
     - Creational patterns
       - Abstract factory
