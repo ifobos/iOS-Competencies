@@ -40,8 +40,6 @@
   - [App Distribution Guide](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingProfiles/MaintainingProfiles.html)
   - [iTunes Connect Developer Guide](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/About.html)
   - [HockeyApp](https://www.hockeyapp.net/features/)
-  - Code-signing
-  - Developer portal
 
 - **Git**
   - Version Control Systems
