@@ -42,18 +42,10 @@
   - [HockeyApp](https://www.hockeyapp.net/features/)
 
 - **Git**
-  - Version Control Systems
-    - Distributed VCS
-    - Branch
-    - Merge
-    - Diff
-  - GitHub
-    - Fork
-    - Pull requests
-  - Configuration
-    - Remotes
-    - Default behaviors
-    - Git ignore
+  - [Git-SCM](https://git-scm.com/doc)
+  - [GitHub](https://guides.github.com/)
+  - [GitFlow](https://github.com/nvie/gitflow)
+  - [Git ignore](https://www.gitignore.io/)
   
 - **Designing for mobile**
   - Human Interface Guidelines
