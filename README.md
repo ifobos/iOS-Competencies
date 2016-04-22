@@ -48,7 +48,7 @@
   - [Git ignore](https://www.gitignore.io/)
   
 - **Designing for mobile**
-  - Human Interface Guidelines
+  - [Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   - Bandwidth considerations
   - Threading operations
   - Saving and restoring state
