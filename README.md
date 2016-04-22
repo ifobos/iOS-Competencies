@@ -75,7 +75,7 @@
   - Style Guide
     - [Objective C Style Guide](https://github.com/ifobos/objective-c-style-guide)
     - [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
-  - SOLID
+  - [SOLID](http://www.codemag.com/article/1001061)
     - Single responsibility principle
     - Open/closed principle
     - Liskov substitution principle
