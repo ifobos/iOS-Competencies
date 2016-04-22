@@ -39,11 +39,7 @@
 - **Deployment**
   - [App Distribution Guide](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingProfiles/MaintainingProfiles.html)
   - [iTunes Connect Developer Guide](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/About.html)
-  - Device testing
-  - TestFlight
-  - HockeyApp
-  - App Store
-  - Provisioning profiles
+  - [HockeyApp](https://www.hockeyapp.net/features/)
   - Code-signing
   - Developer portal
 
